@@ -1,0 +1,48 @@
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Uno
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036718088af0c90cd9fba4316b5cdfc:d661bbb35caca7e34e23bc49c6c6c1c
+https://linear314-it-dash1-prd.selector.skycdn.it/016a/32202/FHD/cinemauno/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f3ec4ac7d836b5bf9fa79f3041b6:c02271563d97b1e7e755484279f2b55c
+https://linear303-it-dash1-prd.selector.skycdn.it/016a/32030/FHD/cinemacomedy/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Action
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036e08e9dad9fcc4d07d029daff08f0:9f73fd34aedff3fe65ae4d6be314c882
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31206/FHD/cinemaaction/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Due
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036f7214552ee5006e2879d029e3b16:3b606878d4d3ec0b3eab10d2c0be3404
+https://linear308-it-dash1-prd.selector.skycdn.it/016a/32564/FHD/cinemadue/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Collection
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=61f79bfc7c6ada56a56fe8f8cf9c83b
+https://linear302-it-dash1-prd.selector.skycdn.it/016a/31204/FHD/cinemacollection/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Family
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036c25f3464354fcb3832d2e5f11f67:adbb5a5af5ada23c9ade7df078c404f5
+https://linear305-it-dash1-prd.selector.skycdn.it/016a/31255/FHD/cinemafamily/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Suspance
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=003622ffdc876564765360b5441eb9e3:b3a089bd6fecbed72228195fcc7c7520
+https://linear307-it-dash1-prd-ll.cdn13.skycdp.com/016a/32047/FHD/cinemasuspense/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 0036d4dbcac875a30838bcb8d632878b:035f084643498a2f969488dccd2e8f68
+https://linear301-it-dash1-prd-ll.cdn13.skycdp.com/016a/32231/FHD/cinemaromance/master_sd.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Sky_italia_2018.png/1200px-Sky_italia_2018.png" group-title="7. Sky",Sky Cinema Romance
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key= 003660962dd06752d38e81eb9041679a:6e96bac4a92170941abb54eff6113442
+https://linear304-it-dash1-prd-ll.cdn13.skycdp.com/016a/31769/FHD/cinemadrama/master_sd.mpd
+
+
